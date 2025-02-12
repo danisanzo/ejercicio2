@@ -1,1 +1,2 @@
 Este es el primer documento
+Este es un cambio en el documento 1
